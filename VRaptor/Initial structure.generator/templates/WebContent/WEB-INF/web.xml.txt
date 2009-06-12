@@ -1,0 +1,12 @@
+Paste into your web.xml:
+
+	<servlet>
+		<servlet-name>vraptor2</servlet-name>
+		<servlet-class>org.vraptor.VRaptorServlet</servlet-class>
+		<load-on-startup>1</load-on-startup>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>vraptor2</servlet-name>
+		<url-pattern>*.logic</url-pattern>
+	</servlet-mapping>
