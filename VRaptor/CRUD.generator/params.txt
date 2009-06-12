@@ -1,3 +1,0 @@
-basePackage=com.basepackage
-modelName=Model
-modelAttributes=attr1:String\nattr2:String

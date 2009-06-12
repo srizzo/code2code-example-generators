@@ -1,3 +1,0 @@
-basePackage=com.basepackage
-modelName=Model
-modelAttributes=a:String\nb:String\nc:String

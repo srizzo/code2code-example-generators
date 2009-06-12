@@ -1,3 +1,0 @@
-basePackage=com.basepackage
-hsqlDatabasePath=/tmp/hsqlDatabase
-
