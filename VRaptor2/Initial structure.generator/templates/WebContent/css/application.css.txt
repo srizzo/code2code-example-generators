@@ -1,0 +1,23 @@
+body {
+  background-color: #fff; color: #333; 
+  font-family: Georgia, sans-serif;
+}
+
+
+a {
+  text-decoration: none;
+}
+
+
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  border: solid thin;
+  padding: 2px 10px;
+}
+
+.message {
+  color: green;
+}
